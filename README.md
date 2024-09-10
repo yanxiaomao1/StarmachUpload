@@ -8,4 +8,8 @@ Starmach Upload是基于RH计时系统设计的脚本，可用wps文档导入飞
 * 导入分组信息
 
 # 格式
+* 导入飞手格式
+![格式](./format.png)
+
+* 导入分组格式
 ![格式](./forms.png)
